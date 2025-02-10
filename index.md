@@ -6,3 +6,16 @@
 ###### Or be cryptic and make text appear small to make a secret.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```
+Welcome to Weyland Yutani Landlord Center
+```
