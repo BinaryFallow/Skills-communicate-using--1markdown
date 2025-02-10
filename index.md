@@ -19,3 +19,7 @@ var myVar = "Hello, world!";
 ```
 Welcome to Weyland Yutani Landlord Center
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
